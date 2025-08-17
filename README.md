@@ -98,7 +98,7 @@ java -cp .:mysql-connector-java-8.0.28.jar StaffManagementGUI
 
 # Contact
 
-### Gudala Sambasiva - lasyavallichavvakula@gmail.com
+### lasyavallichavvakula@gmail.com
 
 ### Project Link: [https://github.com/lasya-14/Staff_Management_System](https://github.com/lasya-14/Staff_Management_System)
 
